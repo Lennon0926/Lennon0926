@@ -91,7 +91,7 @@
       <img src="https://github-readme-stats.vercel.app/api?username=Lennon0926&&show_icons=true&count_private=true&theme=github_dark">
     </td>
     <td style="border: none;">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lennon0926&theme=blueberry_duo"/>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lennon0926&theme=github-dark"/>
     </td>
   </tr>
 </table>
