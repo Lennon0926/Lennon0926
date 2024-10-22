@@ -85,9 +85,22 @@
 <!-- Stats -->
 ### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"><b> Github Stats </b>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Lennon0926&&show_icons=true&count_private=true&theme=github_dark">|<img src="https://github-readme-streak-stats.herokuapp.com/?user=Lennon0926&theme=blueberry_duo"/>
-|---|---|
+<table style="border: none; width: 100%;">
+  <tr>
+    <td style="border: none;">
+      <img src="https://github-readme-stats.vercel.app/api?username=Lennon0926&&show_icons=true&count_private=true&theme=github_dark">
+    </td>
+    <td style="border: none;">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lennon0926&theme=blueberry_duo"/>
+    </td>
+  </tr>
+</table>
 
 <!-- Connections -->
 ### <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="25"><b> Connect with Me </b>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/onnellelugo" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-05122A?style=flat&logo=linkedin"></a>
+  <a href="https://www.instagram.com/onnellelugo" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-05122A?style=flat&logo=instagram"></a>
+</p>
 
